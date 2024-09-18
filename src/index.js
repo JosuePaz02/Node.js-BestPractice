@@ -5,7 +5,7 @@ const app = express();
 
 app.use(express.json());
 app.use("/api/v1", v1WorkoutRoutes);
-console.log("hOLAAAA")
+console.log("hOLAAAA");
 
 //* Este es un comentario
 //? Este es otro comentario el la rama Prueba1
